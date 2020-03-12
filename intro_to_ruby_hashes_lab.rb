@@ -1,13 +1,15 @@
 def new_hash
-
+  return Hash.new()
 end
 
 def actor
-
+  return favorite = {name: "Dwayne The Rock Johnson"}
 end
 
 def monopoly
-	monopoly = {}
+	monopoly = {
+	  
+	}
 
 end
 
